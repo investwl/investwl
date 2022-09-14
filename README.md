@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @investwl
 - 👀 I’m interested in learning new stuff because im newbie !
-- 🌱 I’m currently learning about Python and PostgreSQL
+- 🌱 I’m currently learning about Python and PostgreSQL, a little of HTML and CSS, possible C in the future !
 - 💞️ I’m looking to collaborate on someone who could be a mentor
 - 📫 Reach me with email, williangjym@gmail.com
 
