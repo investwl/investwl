@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William Angjaya
 - 👀 I’m interested in learning about Artificial Intelligence / Machine Learning !
-- 🌱 I’m able to program in Python and C, a little rusty in PostgreSQL, HTML, CSS!
+- 🌱 I’m able to program in Python.
 - 💞️ I’m looking to collaborate on someone who could be a mentor
 - 📫 Reach me with email, williangjym@gmail.com
 
